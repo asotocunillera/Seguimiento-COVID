@@ -10,11 +10,11 @@ Al abrir el libro, automáticamente se comprueba si existen nuevos datos oficial
 
 En la hoja *General* del fichero, se muestra un gráfico interactivo para ver un resumen de los confimrados y muertes totales, o por comunidad, en función del día seleccionado.
 
-![](https://github.com/asotocunillera/Seguimiento-COVID/img/General.PNG)
+![](https://github.com/asotocunillera/Seguimiento-COVID/blob/master/img/General.PNG)
 
 En la hoja *Gráficos* del fichero, se incluye un gráfico interactivo de las diferentes variables extraídas de la [API](https://covid19tracking.narrativa.com/es/spain/api.html "covid19tracking") del grupo [Narrativa](https://www.narrativa.com/es/inicio/ "Narrativa")
 
-![](https://github.com/asotocunillera/Seguimiento-COVID/img/Graficos.PNG)
+![](https://github.com/asotocunillera/Seguimiento-COVID/blob/master/img/Graficos.PNG)
 
 ## Autor
 Realizado por Álvaro Soto, asotocunillera@gmail.com
